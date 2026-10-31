@@ -1,9 +1,6 @@
 # Hypotrochoid Animation – Midterm 2D
 
-<!-- Add your gameplay GIF below -->
-<p align="center">
-  <img src="docs/render.gif" alt="Hypotrochoid Animation Demo" width="800"/>
-</p>
+![some](https://github.com/sidhesh1508/Midterm2d/blob/main/render.gif)
 
 ## About the Project
 
