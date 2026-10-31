@@ -122,7 +122,11 @@ void Hypotrochoid::Draw()
         DrawLineEx(
             curvePoints[i - 1],
             curvePoints[i],
+<<<<<<< HEAD
             2.0f,
+=======
+            1.0f,
+>>>>>>> 87c5dcb959cfa847d79001ec2f04ad8a2373d93c
             SKYBLUE
         );
     }
