@@ -2,11 +2,7 @@
 
 <!-- Add your gameplay GIF below -->
 <p align="center">
-<<<<<<< HEAD
-  <img src="render.gif" alt="Hypotrochoid Animation Demo" width="800"/>
-=======
   <img src="docs/render.gif" alt="Hypotrochoid Animation Demo" width="800"/>
->>>>>>> 87c5dcb959cfa847d79001ec2f04ad8a2373d93c
 </p>
 
 ## About the Project
